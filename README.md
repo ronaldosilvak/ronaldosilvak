@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 ![ronaldosilvak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldosilvak&show_icons=true&theme=tokyonight)
 
-<divs style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <a href="mailto:ronaldosilvanp.360@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ronaldo-silva-7727b8272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldosilvak&show_icons=true&theme=tokyonight" alt="ronaldosilvak's GitHub stats">
+  <a href="mailto:ronaldosilvanp.360@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-top: 10px;"></a>
+  <a href="https://www.linkedin.com/in/ronaldo-silva-7727b8272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin-top: 10px;"></a>
 </div>
+
+
